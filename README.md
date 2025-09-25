@@ -3,14 +3,14 @@
 I am a Master's student in Universal Design of ICT at OsloMet (graduating in 2026), with a Bachelor's degree in Frontend and Mobile Development from Kristiania University College.  
 My main focus is on frontend and fullstack development, with interests in accessibility, user-centered design, and IoT. I enjoy building projects that combine technology with practical, real-world applications.
 
----
+
 
 ## About Me
 - Master's student at OsloMet (Universal Design of ICT, 2024–2026)  
 - Bachelor's degree in Frontend & Mobile Development from Kristiania University College (2021-2024)  
 - Interested in accessibility, web technologies, and IoT 
 
----
+
 
 ## Technologies
 <p align="left">
@@ -31,7 +31,7 @@ My main focus is on frontend and fullstack development, with interests in access
 
 
 
----
+
 
 ## Projects
 - **[Greenhouse Controller](https://github.com/alexandermora1/iot-greenhouse-controller)**  
@@ -43,7 +43,7 @@ My main focus is on frontend and fullstack development, with interests in access
 - **[Warhammer Charge Simulator](https://github.com/alexandermora1/Charge)**
   A React-based prototype that simulates Warhammer Fantasy Battles' close combat charges, including hit, wound, save, and combat resolution mechanics.
 
----
+
 
 ## Interests
 - Guitar and music production
@@ -52,10 +52,10 @@ My main focus is on frontend and fullstack development, with interests in access
 - Reading (fantasy, sci-fi, weird fiction, etc.)
 - Gardening
 
----
+
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/alexander-mora-469124330/)  
 
 
----
+
