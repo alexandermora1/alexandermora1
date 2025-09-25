@@ -40,8 +40,8 @@ My main focus is on frontend and fullstack development, with interests in access
 - **[Asteroids](https://github.com/alexandermora1/asteroidish)**  
   Python/Pygame project initially based on Boot.dev coursework on object oriented programming, further extended with new features and mechanics.  
 
-- **Garden Planner** *(planned, in progress 2025)*  
-  Fullstack web application for managing garden plants, tasks, and weather-based care reminders.
+- **[Warhammer Charge Simulator](https://github.com/alexandermora1/Charge)**
+  A React-based prototype that simulates Warhammer Fantasy Battles' close combat charges, including hit, wound, save, and combat resolution mechanics.
 
 ---
 
