@@ -34,7 +34,7 @@ My main focus is on frontend and fullstack development, with interests in access
 
 
 ## Projects
-- **[Greenhouse Controller](https://github.com/alexandermora1/iot-greenhouse-controller)**  
+- **[IoT Greenhouse Monitor](https://github.com/alexandermora1/iot-greenhouse-controller)**  
   IoT prototype using ESP32, sensors, Firebase, and a React Native app to monitor and simulate greenhouse control.
 
 - **[Warhammer Charge Simulator](https://github.com/alexandermora1/Charge)**
