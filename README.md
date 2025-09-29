@@ -40,9 +40,6 @@ My main focus is on frontend and fullstack development, with interests in access
 - **[Warhammer Charge Simulator](https://github.com/alexandermora1/Charge)**
   A React-based prototype that simulates Warhammer Fantasy Battles' close combat charges, including hit, wound, save, and combat resolution mechanics.
 
-- **[Asteroids](https://github.com/alexandermora1/asteroidish)**  
-  Python/Pygame project initially based on Boot.dev coursework on object oriented programming. Will be expanded with new features and mechanics.  
-
 
 
 
