@@ -34,11 +34,12 @@ My main focus is on frontend and fullstack development, with interests in access
 
 
 ## Projects
+- **[AI Literacy for Older Adults](https://github.com/alexandermora1/ai-literacy-for-older-adults)**
+  A web-based AI literacy course for Norwegian adults aged 60+, built with React and deployed at seniorki.no as part of a master's thesis in universal design of ICT at OsloMet. 
+
 - **[IoT Greenhouse Monitor](https://github.com/alexandermora1/iot-greenhouse-controller)**  
   IoT prototype using ESP32, sensors, Firebase, and a React Native app to monitor and simulate greenhouse control.
 
-- **[Charge! Warhammer Battle Simulator](https://github.com/alexandermora1/Charge)**
-  A React-based prototype that simulates Warhammer Fantasy Battles' close combat charges, including hit, wound, save, and combat resolution mechanics.
 
 
 
