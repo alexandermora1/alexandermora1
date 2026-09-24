@@ -1,14 +1,14 @@
 # Hi, I'm Alexander Mora
 
-I am a Master's student in Universal Design of ICT at OsloMet (graduating in 2026), with a Bachelor's degree in Frontend and Mobile Development from Kristiania University College.  
-My main focus is on frontend and fullstack development, with interests in accessibility, user-centered design, and IoT. I enjoy building projects that combine technology with practical, real-world applications.
+I'm a frontend developer with a Master's degree in Universal Design of ICT from OsloMet (2026) and a Bachelor's in Frontend and Mobile Development from Kristiania University College.
+My main focus is frontend development and UX, and I care about building solutions that are usable and accessible for everyone. I also have some experience with backend and fullstack projects, and I'm happy to work across the stack when needed.
 
 
 
 ## About Me
-- Master's student at OsloMet (Universal Design of ICT, 2024–2026)  
-- Bachelor's degree in Frontend & Mobile Development from Kristiania University College (2021-2024)  
-- Interested in accessibility, web technologies, and IoT 
+- Master's degree in applied computer- and information technology, specialization in universal design of ICT, from OsloMet (2024–2026)  
+- Bachelor's degree in frontend & mobile development from Kristiania University College (2021-2024)  
+- Interested in accessibility, UX and modern web technologies
 
 
 
@@ -49,7 +49,7 @@ My main focus is on frontend and fullstack development, with interests in access
 - Guitar and music production
 - Magic: The Gathering
 - Warhammer (miniatures and gameplay)
-- Reading (fantasy, sci-fi, weird fiction, etc.)
+- Reading (fantasy, sci-fi, history, etc.)
 - Gardening
 
 
