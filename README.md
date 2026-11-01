@@ -34,7 +34,7 @@ My main focus is frontend development and UX, and I care about building solution
 
 
 ## Projects
-- **[AI Literacy for Older Adults](https://github.com/alexandermora1/ai-literacy-for-older-adults)**
+- **[SeniorKI.no - Master's project](https://github.com/alexandermora1/ai-literacy-for-older-adults)**
   A web-based AI literacy course for Norwegian adults aged 60+, built with React and deployed at seniorki.no as part of a master's thesis in universal design of ICT at OsloMet. 
 
 - **[IoT Greenhouse Monitor](https://github.com/alexandermora1/iot-greenhouse-controller)**  
