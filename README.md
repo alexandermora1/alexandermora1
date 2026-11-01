@@ -40,8 +40,8 @@ My main focus is frontend development and UX, and I care about building solution
 - **[IoT Greenhouse Monitor](https://github.com/alexandermora1/iot-greenhouse-controller)**  
   IoT prototype using ESP32, sensors, Firebase, and a React Native app to monitor and simulate greenhouse control.
 
-
-
+- **[ACIT4420 Problem solving with scripting exam](https://github.com/alexandermora1/acit4420-final-assignment)**
+  Python projects including CourierOptimizer, a route planner that validates delivery data from CSV, and an object-oriented Game of Life.
 
 
 
